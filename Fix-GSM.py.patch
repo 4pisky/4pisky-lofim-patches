@@ -16,7 +16,7 @@ index c427575..7f0aa11 100755
          theta = float(argv[st+5])
  
 -    db_host = "ldb002.offline.lofar"
-+    db_host = "pi1"
++    db_host = "lofar1"
      #db_host = "napels"
      db_dbase = "gsm"
      db_user = "gsm"
